@@ -1,6 +1,6 @@
 import random
 import pygame
-from Environment import *
+from Evolution import *
 
 # Constants
 GRID_SIZE = 25

@@ -7,5 +7,5 @@ class Diet(Enum):
 
 class Reproduction(Enum):
     ASEXUAL = 0
-    SEXUAL = 1
-
+    OVIPARITY = 0
+    VIVIPARITY = 1
