@@ -1,5 +1,6 @@
 import random
 import pygame
+import logging
 from Evolution import *
 
 # Constants
@@ -14,6 +15,22 @@ BLACK = (0, 0, 0)
 RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 
+logger = logging.getLogger('evolution')
+logger.setLevel(logging.DEBUG)
+
+console_handler = logging.StreamHandler()
+file_handler = logging.FileHandler('evolution.log')
+
+console_handler.setLevel(logging.DEBUG)
+file_handler.setLevel(logging.DEBUG)
+
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+console_handler.setFormatter(formatter)
+file_handler.setFormatter(formatter)
+
+logger.addHandler(console_handler)
+logger.addHandler(file_handler)
+
 # Initialize Pygame
 pygame.init()
 screen = pygame.display.set_mode((GRID_SIZE * CELL_SIZE, GRID_SIZE * CELL_SIZE))
@@ -22,7 +39,7 @@ clock = pygame.time.Clock()
 
 def main():
     # Initialize environment
-    env = Environment(GRID_SIZE)
+    env = Environment(GRID_SIZE, logger)
 
     env.init_organisms(NUM_ORGANISMS, MUTATION_RATE)
 

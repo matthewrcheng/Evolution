@@ -59,7 +59,7 @@ def random_reproduction() -> Reproduction:
     return random.choice([Reproduction.ASEXUAL, Reproduction.OVIPARITY, Reproduction.VIVIPARITY])
 
 def random_reproduction_rate() -> float:
-    return random.random()
+    return random.random()/25
 
 def random_fertility() -> float:
     return random.random()

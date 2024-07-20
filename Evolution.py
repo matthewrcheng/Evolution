@@ -1,12 +1,18 @@
 import random
+import logging
 from utils import *
 
 directions = [(1,0), (0,1), (-1,0), (0,-1)]
 
 class Environment:
-    def __init__(self, GRID_SIZE: int):
+    def __init__(self, GRID_SIZE: int, logger):
         self.curr_id = 0
         self.grid_size = GRID_SIZE
+        self.logger = logger
+        self.org_logger = logging.getLogger('organism')
+        self.org_logger.setLevel(logging.DEBUG)
+        file_handler = logging.FileHandler('organism.log')
+        self.org_logger.addHandler(file_handler)
         self.grid = [[None for _ in range(self.grid_size)] for _ in range(self.grid_size)]
         self.organisms = dict()
         self.new_organisms = []
@@ -53,7 +59,7 @@ class Environment:
                 to_remove.append(organism)
         for organism in to_remove:
             self.remove_organism(organism)
-            print(f"{organism.id} has died")
+            self.logger.info(f"{organism.id} has died")
         self.spawn_food()
 
 class Organism:
@@ -84,7 +90,11 @@ class Organism:
         self.offspring_term_limit = offspring_term_limit
         self.fertility = fertility
         self.color = color
+        self.env.org_logger.info(f"{self.id}: {str(self)}")
         self.turn()
+
+    def __str__(self):
+        return f"Organism {self.id} - Mutation Rate: {self.mutation_rate} Sex {self.sex} Health: {self.max_health} Hunger: {self.max_hunger} Speed: {self.speed} Strength: {self.strength} Turn Ratio: {self.turn_ratio} Nourishment: {self.nourishment} Heal Limit: {self.heal_limit} Diet: {self.diet} Reproduction: {self.reproduction} Reproduction Rate: {self.reproduction_rate} Fertility: {self.fertility} Offspring Term Limit: {self.offspring_term_limit} Color: {self.color}"
 
     def check_dims(self, x: int, y: int):
         return x >= 0 and y >= 0 and x < self.env.grid_size and y < self.env.grid_size
@@ -117,10 +127,10 @@ class Organism:
                     self.env.grid[x][y] = None
                     self.hunger += self.nourishment
                     self.hunger = min(self.hunger, self.max_hunger)
-                    print(f"{self.id} ate target {target.id}")
+                    self.env.logger.info(f"{self.id} ate target {target.id}")
 
     def attack(self, other):
-        print(f"{self.id} is attacking {other.id}")
+        self.env.logger.info(f"{self.id} is attacking {other.id}")
         if self.speed >= other.speed:
             while self.health > 0 and other.health > 0:
                 if random.random() < self.strength:
@@ -135,13 +145,13 @@ class Organism:
                     if random.random() < self.strength:
                         other.health -= self.strength*45
             else:
-                print(f"{other.id} got away!")
+                self.env.logger.info(f"{other.id} got away!")
                 return False
         if other.health <= 0:
             other.health = 0
             return True
         else:
-            print(f"{self.id} failed the attack and died.")
+            self.env.logger.info(f"{self.id} failed the attack and died.")
             self.health = 0
             return False
 
@@ -166,7 +176,7 @@ class Organism:
                 child.turn(self.turn_around())
                 child.mutate()
                 self.env.queue_organism(child)
-                print(f"{self.id} produced a child")
+                self.env.logger.info(f"{self.id} produced a child")
         else:
             x = self.x - self.direction[0]
             y = self.y - self.direction[1]
@@ -179,7 +189,7 @@ class Organism:
                 child.turn(self.turn_around())
                 child.mutate()
                 self.env.queue_organism(child)
-                print(f"{self.id} produced a child with {self.baby_daddy.id}")
+                self.env.logger.info(f"{self.id} produced a child with {self.baby_daddy.id}")
 
     def gaussian_stat(self, stat):
         return random.gauss((getattr(self,stat)+getattr(self.baby_daddy,stat))/2, getattr(self, stat)/100)
@@ -216,7 +226,7 @@ class Organism:
             random_stat = "random_" + stat
             value = globals()[random_stat]()
             setattr(self, stat, value)
-            print(f"{self.id} mutated {stat} to {value}")
+            self.env.logger.info(f"{self.id} mutated {stat} to {value}")
     
     def action(self):
         self.eat()

@@ -1,0 +1,886 @@
+2024-07-20 00:22:30,997 - INFO - 6 produced a child
+2024-07-20 00:22:33,107 - INFO - 0 produced a child
+2024-07-20 00:22:34,916 - INFO - 5 produced a child
+2024-07-20 00:22:35,518 - INFO - 1 produced a child
+2024-07-20 00:22:37,730 - INFO - 10 produced a child
+2024-07-20 00:22:39,942 - INFO - 4 produced a child
+2024-07-20 00:22:40,847 - INFO - 10 produced a child
+2024-07-20 00:22:45,267 - INFO - 13 produced a child
+2024-07-20 00:22:50,736 - INFO - 6 produced a child
+2024-07-20 00:22:54,250 - INFO - 11 produced a child
+2024-07-20 00:22:57,367 - INFO - 5 has died
+2024-07-20 00:22:57,768 - INFO - 10 has died
+2024-07-20 00:22:58,372 - INFO - 9 has died
+2024-07-20 00:23:00,381 - INFO - 0 mutated offspring_term_limit to 29
+2024-07-20 00:23:00,381 - INFO - 16 produced a child
+2024-07-20 00:23:03,294 - INFO - 18 produced a child
+2024-07-20 00:23:03,394 - INFO - 2 has died
+2024-07-20 00:23:04,803 - INFO - 3 has died
+2024-07-20 00:23:05,406 - INFO - 1 has died
+2024-07-20 00:23:05,408 - INFO - 7 has died
+2024-07-20 00:23:05,808 - INFO - 14 has died
+2024-07-20 00:23:06,109 - INFO - 15 has died
+2024-07-20 00:23:07,611 - INFO - 16 has died
+2024-07-20 00:23:08,418 - INFO - 0 has died
+2024-07-20 00:23:11,327 - INFO - 4 has died
+2024-07-20 00:23:11,427 - INFO - 6 has died
+2024-07-20 00:23:12,029 - INFO - 11 produced a child
+2024-07-20 00:23:15,347 - INFO - 12 has died
+2024-07-20 00:23:16,050 - INFO - 17 has died
+2024-07-20 00:23:20,361 - INFO - 13 has died
+2024-07-20 00:23:38,634 - INFO - 22 produced a child
+2024-07-20 00:23:42,747 - INFO - 18 has died
+2024-07-20 00:23:45,554 - INFO - 8 has died
+2024-07-20 00:23:49,374 - INFO - 23 produced a child
+2024-07-20 00:24:12,675 - INFO - 20 produced a child
+2024-07-20 00:24:20,605 - INFO - 20 produced a child
+2024-07-20 00:24:23,726 - INFO - 22 produced a child
+2024-07-20 00:24:24,127 - INFO - 27 produced a child
+2024-07-20 00:24:32,660 - INFO - 21 has died
+2024-07-20 00:24:36,177 - INFO - 0 mutated max_health to 177
+2024-07-20 00:24:36,177 - INFO - 11 produced a child
+2024-07-20 00:24:37,784 - INFO - 27 produced a child
+2024-07-20 00:24:46,117 - INFO - 29 produced a child
+2024-07-20 00:24:46,316 - INFO - 23 has died
+2024-07-20 00:24:50,429 - INFO - 11 has died
+2024-07-20 00:24:54,044 - INFO - 25 produced a child
+2024-07-20 00:24:57,957 - INFO - 24 has died
+2024-07-20 00:25:01,874 - INFO - 27 has died
+2024-07-20 00:25:07,097 - INFO - 22 has died
+2024-07-20 00:25:27,183 - INFO - 32 has died
+2024-07-20 00:25:28,286 - INFO - 26 has died
+2024-07-20 00:25:29,088 - INFO - 25 has died
+2024-07-20 00:25:36,011 - INFO - 29 produced a child
+2024-07-20 00:25:43,846 - INFO - 31 produced a child
+2024-07-20 00:25:47,461 - INFO - 33 produced a child
+2024-07-20 00:25:59,112 - INFO - 30 produced a child
+2024-07-20 00:26:08,843 - INFO - 29 has died
+2024-07-20 00:26:19,696 - INFO - 33 produced a child
+2024-07-20 00:26:19,696 - INFO - 35 produced a child
+2024-07-20 00:26:22,208 - INFO - 20 produced a child
+2024-07-20 00:26:26,426 - INFO - 39 produced a child
+2024-07-20 00:26:29,639 - INFO - 33 produced a child
+2024-07-20 00:26:35,564 - INFO - 19 has died
+2024-07-20 00:26:36,667 - INFO - 37 produced a child
+2024-07-20 00:26:44,909 - INFO - 20 has died
+2024-07-20 00:26:47,820 - INFO - 28 produced a child
+2024-07-20 00:26:49,528 - INFO - 35 has died
+2024-07-20 00:26:58,856 - INFO - 30 has died
+2024-07-20 00:27:00,566 - INFO - 40 has died
+2024-07-20 00:27:06,595 - INFO - 36 has died
+2024-07-20 00:27:08,001 - INFO - 33 produced a child
+2024-07-20 00:27:10,611 - INFO - 33 has died
+2024-07-20 00:27:13,126 - INFO - 34 produced a child
+2024-07-20 00:27:15,435 - INFO - 31 has died
+2024-07-20 00:27:21,872 - INFO - 42 produced a child
+2024-07-20 00:27:22,776 - INFO - 38 produced a child
+2024-07-20 00:27:24,686 - INFO - 37 has died
+2024-07-20 00:27:27,999 - INFO - 41 produced a child
+2024-07-20 00:27:29,304 - INFO - 47 produced a child
+2024-07-20 00:27:46,765 - INFO - 38 has died
+2024-07-20 00:27:47,165 - INFO - 34 has died
+2024-07-20 00:27:49,673 - INFO - 0 mutated heal_limit to 212
+2024-07-20 00:27:49,674 - INFO - 42 produced a child
+2024-07-20 00:27:56,294 - INFO - 39 has died
+2024-07-20 00:27:57,999 - INFO - 43 has died
+2024-07-20 00:27:59,707 - INFO - 42 has died
+2024-07-20 00:27:59,908 - INFO - 44 has died
+2024-07-20 00:28:11,955 - INFO - 48 has died
+2024-07-20 00:28:12,255 - INFO - 28 produced a child
+2024-07-20 00:28:18,983 - INFO - 46 produced a child
+2024-07-20 00:28:22,796 - INFO - 28 has died
+2024-07-20 00:28:28,317 - INFO - 47 produced a child
+2024-07-20 00:28:36,445 - INFO - 46 produced a child
+2024-07-20 00:28:38,455 - INFO - 53 produced a child
+2024-07-20 00:28:40,066 - INFO - 45 has died
+2024-07-20 00:28:58,756 - INFO - 41 has died
+2024-07-20 00:29:00,866 - INFO - 52 produced a child
+2024-07-20 00:29:14,518 - INFO - 49 has died
+2024-07-20 00:29:32,889 - INFO - 55 has died
+2024-07-20 00:29:36,303 - INFO - 47 has died
+2024-07-20 00:29:36,602 - INFO - 46 produced a child
+2024-07-20 00:29:46,245 - INFO - 46 produced a child
+2024-07-20 00:30:25,806 - INFO - 52 produced a child
+2024-07-20 00:30:28,218 - INFO - 54 produced a child
+2024-07-20 00:30:31,538 - INFO - 56 produced a child
+2024-07-20 00:30:38,672 - INFO - 51 has died
+2024-07-20 00:30:47,714 - INFO - 56 has died
+2024-07-20 00:30:48,817 - INFO - 57 produced a child
+2024-07-20 00:30:57,155 - INFO - 46 produced a child
+2024-07-20 00:30:59,868 - INFO - 58 produced a child
+2024-07-20 00:31:01,774 - INFO - 54 produced a child
+2024-07-20 00:31:07,300 - INFO - 54 has died
+2024-07-20 00:31:08,908 - INFO - 52 produced a child
+2024-07-20 00:31:15,134 - INFO - 61 produced a child
+2024-07-20 00:31:20,752 - INFO - 59 has died
+2024-07-20 00:31:21,054 - INFO - 58 has died
+2024-07-20 00:31:26,269 - INFO - 46 has died
+2024-07-20 00:31:26,471 - INFO - 53 has died
+2024-07-20 00:31:31,795 - INFO - 52 has died
+2024-07-20 00:31:41,532 - INFO - 62 produced a child
+2024-07-20 00:31:44,043 - INFO - 57 has died
+2024-07-20 00:31:45,854 - INFO - 60 produced a child
+2024-07-20 00:31:50,580 - INFO - 69 produced a child
+2024-07-20 00:31:53,796 - INFO - 66 has died
+2024-07-20 00:31:59,721 - INFO - 60 has died
+2024-07-20 00:32:02,736 - INFO - 65 has died
+2024-07-20 00:32:06,049 - INFO - 67 has died
+2024-07-20 00:32:12,879 - INFO - 62 has died
+2024-07-20 00:32:16,089 - INFO - 64 has died
+2024-07-20 00:32:17,694 - INFO - 50 has died
+2024-07-20 00:32:24,427 - INFO - 69 produced a child
+2024-07-20 00:32:42,221 - INFO - 70 produced a child
+2024-07-20 00:32:52,871 - INFO - 70 produced a child
+2024-07-20 00:33:04,026 - INFO - 61 produced a child
+2024-07-20 00:33:07,339 - INFO - 61 has died
+2024-07-20 00:33:11,355 - INFO - 68 produced a child
+2024-07-20 00:33:13,262 - INFO - 75 produced a child
+2024-07-20 00:33:34,360 - INFO - 63 produced a child
+2024-07-20 00:33:42,601 - INFO - 71 produced a child
+2024-07-20 00:33:45,515 - INFO - 74 produced a child
+2024-07-20 00:33:46,519 - INFO - 68 has died
+2024-07-20 00:33:58,268 - INFO - 63 produced a child
+2024-07-20 00:34:03,997 - INFO - 70 has died
+2024-07-20 00:34:11,630 - INFO - 74 has died
+2024-07-20 00:34:12,032 - INFO - 73 has died
+2024-07-20 00:34:14,038 - INFO - 63 has died
+2024-07-20 00:34:14,238 - INFO - 71 produced a child
+2024-07-20 00:34:15,140 - INFO - 72 produced a child
+2024-07-20 00:34:21,868 - INFO - 71 has died
+2024-07-20 00:34:22,873 - INFO - 78 produced a child
+2024-07-20 00:34:24,682 - INFO - 79 produced a child
+2024-07-20 00:34:27,597 - INFO - 69 produced a child
+2024-07-20 00:34:28,799 - INFO - 77 produced a child
+2024-07-20 00:34:32,114 - INFO - 72 has died
+2024-07-20 00:34:32,416 - INFO - 76 produced a child
+2024-07-20 00:34:35,429 - INFO - 77 produced a child
+2024-07-20 00:34:40,750 - INFO - 78 has died
+2024-07-20 00:34:44,771 - INFO - 76 has died
+2024-07-20 00:35:01,552 - INFO - 81 produced a child
+2024-07-20 00:35:08,280 - INFO - 80 has died
+2024-07-20 00:35:09,085 - INFO - 85 has died
+2024-07-20 00:35:09,587 - INFO - 75 has died
+2024-07-20 00:35:10,695 - INFO - 89 produced a child
+2024-07-20 00:35:10,995 - INFO - 69 has died
+2024-07-20 00:35:19,034 - INFO - 79 has died
+2024-07-20 00:35:27,672 - INFO - 82 has died
+2024-07-20 00:35:30,383 - INFO - 77 has died
+2024-07-20 00:35:32,090 - INFO - 87 has died
+2024-07-20 00:35:33,697 - INFO - 83 has died
+2024-07-20 00:35:45,648 - INFO - 0 mutated offspring_term_limit to 16
+2024-07-20 00:35:45,648 - INFO - 86 produced a child
+2024-07-20 00:35:48,867 - INFO - 88 produced a child
+2024-07-20 00:35:58,612 - INFO - 81 produced a child
+2024-07-20 00:36:03,125 - INFO - 92 produced a child
+2024-07-20 00:36:17,186 - INFO - 84 has died
+2024-07-20 00:36:30,954 - INFO - 91 has died
+2024-07-20 00:36:49,432 - INFO - 89 has died
+2024-07-20 00:37:15,169 - INFO - 93 produced a child
+2024-07-20 00:37:19,388 - INFO - 81 produced a child
+2024-07-20 00:37:46,832 - INFO - 86 produced a child
+2024-07-20 00:37:48,240 - INFO - 93 produced a child
+2024-07-20 00:37:58,291 - INFO - 90 produced a child
+2024-07-20 00:38:07,240 - INFO - 99 produced a child
+2024-07-20 00:38:14,177 - INFO - 0 mutated fertility to 0.9852065104821641
+2024-07-20 00:38:14,177 - INFO - 95 produced a child
+2024-07-20 00:38:16,991 - INFO - 86 has died
+2024-07-20 00:38:28,957 - INFO - 94 has died
+2024-07-20 00:38:34,788 - INFO - 92 produced a child
+2024-07-20 00:38:36,297 - INFO - 99 has died
+2024-07-20 00:38:37,101 - INFO - 97 has died
+2024-07-20 00:38:46,250 - INFO - 93 has died
+2024-07-20 00:38:49,569 - INFO - 90 produced a child
+2024-07-20 00:38:51,881 - INFO - 100 has died
+2024-07-20 00:39:02,732 - INFO - 102 produced a child
+2024-07-20 00:39:15,591 - INFO - 98 has died
+2024-07-20 00:39:15,994 - INFO - 88 produced a child
+2024-07-20 00:39:20,115 - INFO - 103 produced a child
+2024-07-20 00:39:26,450 - INFO - 105 produced a child
+2024-07-20 00:39:28,361 - INFO - 107 produced a child
+2024-07-20 00:39:29,066 - INFO - 81 produced a child
+2024-07-20 00:39:30,973 - INFO - 81 produced a child
+2024-07-20 00:39:31,073 - INFO - 90 has died
+2024-07-20 00:39:33,785 - INFO - 81 has died
+2024-07-20 00:39:34,688 - INFO - 92 has died
+2024-07-20 00:39:41,960 - INFO - 96 has died
+2024-07-20 00:39:45,375 - INFO - 101 has died
+2024-07-20 00:39:54,023 - INFO - 95 has died
+2024-07-20 00:39:58,748 - INFO - 103 produced a child
+2024-07-20 00:39:59,654 - INFO - 109 produced a child
+2024-07-20 00:40:05,986 - INFO - 88 has died
+2024-07-20 00:40:13,016 - INFO - 109 has died
+2024-07-20 00:40:15,828 - INFO - 105 produced a child
+2024-07-20 00:40:18,941 - INFO - 112 produced a child
+2024-07-20 00:40:20,648 - INFO - 104 has died
+2024-07-20 00:40:21,754 - INFO - 103 has died
+2024-07-20 00:40:23,863 - INFO - 106 has died
+2024-07-20 00:40:37,820 - INFO - 108 has died
+2024-07-20 00:40:40,533 - INFO - 111 produced a child
+2024-07-20 00:40:42,645 - INFO - 107 has died
+2024-07-20 00:40:47,774 - INFO - 102 has died
+2024-07-20 00:41:12,925 - INFO - 111 produced a child
+2024-07-20 00:41:32,914 - INFO - 111 produced a child
+2024-07-20 00:41:50,502 - INFO - 113 produced a child
+2024-07-20 00:41:59,032 - INFO - 117 produced a child
+2024-07-20 00:42:08,167 - INFO - 111 has died
+2024-07-20 00:42:10,276 - INFO - 114 produced a child
+2024-07-20 00:42:18,212 - INFO - 117 produced a child
+2024-07-20 00:42:18,213 - INFO - 117 has died
+2024-07-20 00:42:36,198 - INFO - 115 has died
+2024-07-20 00:42:47,346 - INFO - 110 has died
+2024-07-20 00:42:58,599 - INFO - 105 produced a child
+2024-07-20 00:43:05,338 - INFO - 120 produced a child
+2024-07-20 00:43:05,438 - INFO - 120 has died
+2024-07-20 00:43:06,442 - INFO - 122 produced a child
+2024-07-20 00:43:07,549 - INFO - 105 has died
+2024-07-20 00:43:08,956 - INFO - 114 has died
+2024-07-20 00:43:17,794 - INFO - 118 has died
+2024-07-20 00:43:21,113 - INFO - 121 produced a child
+2024-07-20 00:43:26,239 - INFO - 121 produced a child
+2024-07-20 00:43:31,961 - INFO - 121 has died
+2024-07-20 00:44:04,114 - INFO - 0 mutated heal_limit to 105
+2024-07-20 00:44:04,115 - INFO - 124 produced a child
+2024-07-20 00:44:06,118 - INFO - 116 produced a child
+2024-07-20 00:44:15,266 - INFO - 116 has died
+2024-07-20 00:44:24,398 - INFO - 123 has died
+2024-07-20 00:44:27,409 - INFO - 119 has died
+2024-07-20 00:44:38,958 - INFO - 125 has died
+2024-07-20 00:44:49,801 - INFO - 124 produced a child
+2024-07-20 00:44:58,450 - INFO - 124 produced a child
+2024-07-20 00:45:07,191 - INFO - 0 mutated color to (124, 90, 36)
+2024-07-20 00:45:07,191 - INFO - 126 produced a child
+2024-07-20 00:45:14,121 - INFO - 131 produced a child
+2024-07-20 00:45:14,721 - INFO - 113 has died
+2024-07-20 00:45:25,775 - INFO - 0 mutated max_hunger to 52
+2024-07-20 00:45:25,776 - INFO - 122 produced a child
+2024-07-20 00:45:34,410 - INFO - 0 mutated reproduction_rate to 0.5619778319391902
+2024-07-20 00:45:34,411 - INFO - 126 produced a child
+2024-07-20 00:45:34,510 - INFO - 0 mutated max_health to 227
+2024-07-20 00:45:34,511 - INFO - 134 produced a child
+2024-07-20 00:45:34,711 - INFO - 135 produced a child
+2024-07-20 00:45:34,812 - INFO - 136 produced a child
+2024-07-20 00:45:34,912 - INFO - 135 produced a child
+2024-07-20 00:45:35,113 - INFO - 137 produced a child
+2024-07-20 00:45:35,113 - INFO - 138 produced a child
+2024-07-20 00:45:35,214 - INFO - 135 produced a child
+2024-07-20 00:45:35,214 - INFO - 137 produced a child
+2024-07-20 00:45:35,316 - INFO - 0 mutated offspring_term_limit to 73
+2024-07-20 00:45:35,317 - INFO - 135 produced a child
+2024-07-20 00:45:35,415 - INFO - 139 produced a child
+2024-07-20 00:45:35,415 - INFO - 141 produced a child
+2024-07-20 00:45:35,416 - INFO - 142 produced a child
+2024-07-20 00:45:35,416 - INFO - 143 produced a child
+2024-07-20 00:45:35,516 - INFO - 143 produced a child
+2024-07-20 00:45:35,517 - INFO - 144 produced a child
+2024-07-20 00:45:35,519 - INFO - 146 produced a child
+2024-07-20 00:45:35,520 - INFO - 147 produced a child
+2024-07-20 00:45:35,615 - INFO - 141 produced a child
+2024-07-20 00:45:35,615 - INFO - 143 produced a child
+2024-07-20 00:45:35,616 - INFO - 147 produced a child
+2024-07-20 00:45:35,616 - INFO - 148 produced a child
+2024-07-20 00:45:35,715 - INFO - 135 produced a child
+2024-07-20 00:45:35,716 - INFO - 137 produced a child
+2024-07-20 00:45:35,716 - INFO - 141 produced a child
+2024-07-20 00:45:35,717 - INFO - 0 mutated reproduction_rate to 0.7833467541560165
+2024-07-20 00:45:35,717 - INFO - 143 produced a child
+2024-07-20 00:45:35,717 - INFO - 0 mutated mutation_rate to 0.9461498944231185
+2024-07-20 00:45:35,717 - INFO - 145 produced a child
+2024-07-20 00:45:35,717 - INFO - 146 produced a child
+2024-07-20 00:45:35,718 - INFO - 154 produced a child
+2024-07-20 00:45:35,718 - INFO - 155 produced a child
+2024-07-20 00:45:35,816 - INFO - 134 produced a child
+2024-07-20 00:45:35,816 - INFO - 135 produced a child
+2024-07-20 00:45:35,816 - INFO - 141 produced a child
+2024-07-20 00:45:35,817 - INFO - 144 produced a child
+2024-07-20 00:45:35,817 - INFO - 150 produced a child
+2024-07-20 00:45:35,817 - INFO - 0 mutated color to (20, 130, 196)
+2024-07-20 00:45:35,817 - INFO - 154 produced a child
+2024-07-20 00:45:35,817 - INFO - 156 produced a child
+2024-07-20 00:45:35,817 - INFO - 0 mutated heal_limit to 56
+2024-07-20 00:45:35,817 - INFO - 159 produced a child
+2024-07-20 00:45:35,818 - INFO - 0 mutated reproduction_rate to 0.8389945462909649
+2024-07-20 00:45:35,818 - INFO - 160 produced a child
+2024-07-20 00:45:35,818 - INFO - 161 produced a child
+2024-07-20 00:45:35,916 - INFO - 0 mutated turn_ratio to 0.014980526683412876
+2024-07-20 00:45:35,916 - INFO - 141 produced a child
+2024-07-20 00:45:35,917 - INFO - 142 produced a child
+2024-07-20 00:45:35,917 - INFO - 143 produced a child
+2024-07-20 00:45:35,917 - INFO - 144 produced a child
+2024-07-20 00:45:35,917 - INFO - 145 produced a child
+2024-07-20 00:45:35,917 - INFO - 150 produced a child
+2024-07-20 00:45:35,917 - INFO - 152 produced a child
+2024-07-20 00:45:35,919 - INFO - 158 produced a child
+2024-07-20 00:45:35,919 - INFO - 160 produced a child
+2024-07-20 00:45:35,919 - INFO - 0 mutated max_hunger to 155
+2024-07-20 00:45:35,919 - INFO - 164 produced a child
+2024-07-20 00:45:35,920 - INFO - 165 produced a child
+2024-07-20 00:45:35,920 - INFO - 0 mutated max_hunger to 296
+2024-07-20 00:45:35,920 - INFO - 166 produced a child
+2024-07-20 00:45:35,920 - INFO - 167 produced a child
+2024-07-20 00:45:35,920 - INFO - 168 produced a child
+2024-07-20 00:45:35,920 - INFO - 171 produced a child
+2024-07-20 00:45:35,920 - INFO - 173 produced a child
+2024-07-20 00:45:36,018 - INFO - 135 produced a child
+2024-07-20 00:45:36,020 - INFO - 141 produced a child
+2024-07-20 00:45:36,021 - INFO - 147 produced a child
+2024-07-20 00:45:36,022 - INFO - 149 produced a child
+2024-07-20 00:45:36,023 - INFO - 154 produced a child
+2024-07-20 00:45:36,024 - INFO - 156 produced a child
+2024-07-20 00:45:36,024 - INFO - 165 produced a child
+2024-07-20 00:45:36,024 - INFO - 171 produced a child
+2024-07-20 00:45:36,025 - INFO - 172 produced a child
+2024-07-20 00:45:36,025 - INFO - 173 produced a child
+2024-07-20 00:45:36,025 - INFO - 175 produced a child
+2024-07-20 00:45:36,025 - INFO - 179 produced a child
+2024-07-20 00:45:36,026 - INFO - 186 produced a child
+2024-07-20 00:45:36,026 - INFO - 189 produced a child
+2024-07-20 00:45:36,117 - INFO - 141 produced a child
+2024-07-20 00:45:36,117 - INFO - 143 produced a child
+2024-07-20 00:45:36,118 - INFO - 149 produced a child
+2024-07-20 00:45:36,118 - INFO - 0 mutated mutation_rate to 0.2433863881041639
+2024-07-20 00:45:36,118 - INFO - 152 produced a child
+2024-07-20 00:45:36,118 - INFO - 154 produced a child
+2024-07-20 00:45:36,118 - INFO - 156 produced a child
+2024-07-20 00:45:36,119 - INFO - 165 produced a child
+2024-07-20 00:45:36,119 - INFO - 169 produced a child
+2024-07-20 00:45:36,119 - INFO - 0 mutated turn_ratio to 0.8253997943175387
+2024-07-20 00:45:36,119 - INFO - 172 produced a child
+2024-07-20 00:45:36,119 - INFO - 176 produced a child
+2024-07-20 00:45:36,119 - INFO - 181 produced a child
+2024-07-20 00:45:36,120 - INFO - 186 produced a child
+2024-07-20 00:45:36,120 - INFO - 189 produced a child
+2024-07-20 00:45:36,120 - INFO - 190 produced a child
+2024-07-20 00:45:36,120 - INFO - 191 produced a child
+2024-07-20 00:45:36,120 - INFO - 192 produced a child
+2024-07-20 00:45:36,120 - INFO - 197 produced a child
+2024-07-20 00:45:36,120 - INFO - 199 produced a child
+2024-07-20 00:45:36,219 - INFO - 143 produced a child
+2024-07-20 00:45:36,221 - INFO - 167 produced a child
+2024-07-20 00:45:36,222 - INFO - 171 produced a child
+2024-07-20 00:45:36,222 - INFO - 172 produced a child
+2024-07-20 00:45:36,222 - INFO - 173 produced a child
+2024-07-20 00:45:36,223 - INFO - 177 produced a child
+2024-07-20 00:45:36,223 - INFO - 187 produced a child
+2024-07-20 00:45:36,223 - INFO - 189 produced a child
+2024-07-20 00:45:36,223 - INFO - 193 produced a child
+2024-07-20 00:45:36,224 - INFO - 196 produced a child
+2024-07-20 00:45:36,224 - INFO - 197 produced a child
+2024-07-20 00:45:36,224 - INFO - 202 produced a child
+2024-07-20 00:45:36,224 - INFO - 205 produced a child
+2024-07-20 00:45:36,224 - INFO - 207 produced a child
+2024-07-20 00:45:36,224 - INFO - 213 produced a child
+2024-07-20 00:45:36,225 - INFO - 215 produced a child
+2024-07-20 00:45:36,225 - INFO - 216 produced a child
+2024-07-20 00:45:36,225 - INFO - 217 produced a child
+2024-07-20 00:45:36,225 - INFO - 219 produced a child
+2024-07-20 00:45:36,318 - INFO - 141 produced a child
+2024-07-20 00:45:36,319 - INFO - 154 produced a child
+2024-07-20 00:45:36,319 - INFO - 167 produced a child
+2024-07-20 00:45:36,319 - INFO - 171 produced a child
+2024-07-20 00:45:36,320 - INFO - 173 produced a child
+2024-07-20 00:45:36,320 - INFO - 186 produced a child
+2024-07-20 00:45:36,320 - INFO - 193 produced a child
+2024-07-20 00:45:36,320 - INFO - 201 produced a child
+2024-07-20 00:45:36,321 - INFO - 215 produced a child
+2024-07-20 00:45:36,321 - INFO - 217 produced a child
+2024-07-20 00:45:36,321 - INFO - 223 produced a child
+2024-07-20 00:45:36,321 - INFO - 226 produced a child
+2024-07-20 00:45:36,322 - INFO - 231 produced a child
+2024-07-20 00:45:36,322 - INFO - 233 produced a child
+2024-07-20 00:45:36,322 - INFO - 234 produced a child
+2024-07-20 00:45:36,322 - INFO - 235 produced a child
+2024-07-20 00:45:36,322 - INFO - 236 produced a child
+2024-07-20 00:45:36,421 - INFO - 143 produced a child
+2024-07-20 00:45:36,422 - INFO - 148 produced a child
+2024-07-20 00:45:36,423 - INFO - 149 produced a child
+2024-07-20 00:45:36,423 - INFO - 150 produced a child
+2024-07-20 00:45:36,424 - INFO - 154 produced a child
+2024-07-20 00:45:36,426 - INFO - 169 produced a child
+2024-07-20 00:45:36,427 - INFO - 186 produced a child
+2024-07-20 00:45:36,428 - INFO - 197 produced a child
+2024-07-20 00:45:36,429 - INFO - 200 produced a child
+2024-07-20 00:45:36,429 - INFO - 204 produced a child
+2024-07-20 00:45:36,429 - INFO - 205 produced a child
+2024-07-20 00:45:36,430 - INFO - 208 produced a child
+2024-07-20 00:45:36,430 - INFO - 210 produced a child
+2024-07-20 00:45:36,430 - INFO - 216 produced a child
+2024-07-20 00:45:36,430 - INFO - 227 produced a child
+2024-07-20 00:45:36,430 - INFO - 228 produced a child
+2024-07-20 00:45:36,431 - INFO - 230 produced a child
+2024-07-20 00:45:36,431 - INFO - 240 produced a child
+2024-07-20 00:45:36,431 - INFO - 241 produced a child
+2024-07-20 00:45:36,431 - INFO - 249 produced a child
+2024-07-20 00:45:36,431 - INFO - 250 produced a child
+2024-07-20 00:45:36,431 - INFO - 0 mutated max_hunger to 74
+2024-07-20 00:45:36,432 - INFO - 252 produced a child
+2024-07-20 00:45:36,432 - INFO - 253 produced a child
+2024-07-20 00:45:36,432 - INFO - 256 produced a child
+2024-07-20 00:45:36,432 - INFO - 257 produced a child
+2024-07-20 00:45:36,520 - INFO - 147 produced a child
+2024-07-20 00:45:36,520 - INFO - 148 produced a child
+2024-07-20 00:45:36,521 - INFO - 149 produced a child
+2024-07-20 00:45:36,521 - INFO - 173 produced a child
+2024-07-20 00:45:36,521 - INFO - 186 produced a child
+2024-07-20 00:45:36,522 - INFO - 0 mutated reproduction_rate to 0.4998630139990209
+2024-07-20 00:45:36,522 - INFO - 197 produced a child
+2024-07-20 00:45:36,522 - INFO - 201 produced a child
+2024-07-20 00:45:36,523 - INFO - 0 mutated reproduction to Reproduction.VIVIPARITY
+2024-07-20 00:45:36,523 - INFO - 207 produced a child
+2024-07-20 00:45:36,523 - INFO - 0 mutated mutation_rate to 0.9730433971269017
+2024-07-20 00:45:36,523 - INFO - 215 produced a child
+2024-07-20 00:45:36,523 - INFO - 218 produced a child
+2024-07-20 00:45:36,523 - INFO - 219 produced a child
+2024-07-20 00:45:36,523 - INFO - 222 produced a child
+2024-07-20 00:45:36,524 - INFO - 224 produced a child
+2024-07-20 00:45:36,524 - INFO - 227 produced a child
+2024-07-20 00:45:36,524 - INFO - 228 produced a child
+2024-07-20 00:45:36,524 - INFO - 233 produced a child
+2024-07-20 00:45:36,524 - INFO - 240 produced a child
+2024-07-20 00:45:36,524 - INFO - 0 mutated color to (89, 250, 213)
+2024-07-20 00:45:36,524 - INFO - 244 produced a child
+2024-07-20 00:45:36,525 - INFO - 257 produced a child
+2024-07-20 00:45:36,525 - INFO - 258 produced a child
+2024-07-20 00:45:36,525 - INFO - 261 produced a child
+2024-07-20 00:45:36,525 - INFO - 0 mutated mutation_rate to 0.2596452550270296
+2024-07-20 00:45:36,525 - INFO - 262 produced a child
+2024-07-20 00:45:36,525 - INFO - 0 mutated turn_ratio to 0.6384303518921012
+2024-07-20 00:45:36,526 - INFO - 263 produced a child
+2024-07-20 00:45:36,526 - INFO - 266 produced a child
+2024-07-20 00:45:36,526 - INFO - 269 produced a child
+2024-07-20 00:45:36,526 - INFO - 277 produced a child
+2024-07-20 00:45:36,620 - INFO - 143 produced a child
+2024-07-20 00:45:36,621 - INFO - 149 produced a child
+2024-07-20 00:45:36,621 - INFO - 150 produced a child
+2024-07-20 00:45:36,621 - INFO - 154 produced a child
+2024-07-20 00:45:36,621 - INFO - 156 produced a child
+2024-07-20 00:45:36,622 - INFO - 172 produced a child
+2024-07-20 00:45:36,622 - INFO - 173 produced a child
+2024-07-20 00:45:36,622 - INFO - 197 produced a child
+2024-07-20 00:45:36,622 - INFO - 0 mutated turn_ratio to 0.3173014738035428
+2024-07-20 00:45:36,623 - INFO - 198 produced a child
+2024-07-20 00:45:36,623 - INFO - 201 produced a child
+2024-07-20 00:45:36,623 - INFO - 215 produced a child
+2024-07-20 00:45:36,623 - INFO - 217 produced a child
+2024-07-20 00:45:36,623 - INFO - 218 produced a child
+2024-07-20 00:45:36,624 - INFO - 222 produced a child
+2024-07-20 00:45:36,624 - INFO - 228 produced a child
+2024-07-20 00:45:36,624 - INFO - 233 produced a child
+2024-07-20 00:45:36,624 - INFO - 234 produced a child
+2024-07-20 00:45:36,624 - INFO - 239 produced a child
+2024-07-20 00:45:36,624 - INFO - 241 produced a child
+2024-07-20 00:45:36,624 - INFO - 242 produced a child
+2024-07-20 00:45:36,624 - INFO - 244 produced a child
+2024-07-20 00:45:36,625 - INFO - 259 produced a child
+2024-07-20 00:45:36,625 - INFO - 260 produced a child
+2024-07-20 00:45:36,625 - INFO - 263 produced a child
+2024-07-20 00:45:36,625 - INFO - 264 produced a child
+2024-07-20 00:45:36,625 - INFO - 0 mutated diet to Diet.HERBIVORE
+2024-07-20 00:45:36,625 - INFO - 266 produced a child
+2024-07-20 00:45:36,626 - INFO - 267 produced a child
+2024-07-20 00:45:36,626 - INFO - 272 produced a child
+2024-07-20 00:45:36,626 - INFO - 273 produced a child
+2024-07-20 00:45:36,626 - INFO - 275 produced a child
+2024-07-20 00:45:36,626 - INFO - 284 produced a child
+2024-07-20 00:45:36,626 - INFO - 285 produced a child
+2024-07-20 00:45:36,627 - INFO - 286 produced a child
+2024-07-20 00:45:36,627 - INFO - 0 mutated max_hunger to 248
+2024-07-20 00:45:36,627 - INFO - 292 produced a child
+2024-07-20 00:45:36,627 - INFO - 296 produced a child
+2024-07-20 00:45:36,627 - INFO - 302 produced a child
+2024-07-20 00:45:36,722 - INFO - 143 produced a child
+2024-07-20 00:45:36,723 - INFO - 0 mutated fertility to 0.34481012649483356
+2024-07-20 00:45:36,724 - INFO - 150 produced a child
+2024-07-20 00:45:36,725 - INFO - 171 produced a child
+2024-07-20 00:45:36,727 - INFO - 0 mutated nourishment to 9
+2024-07-20 00:45:36,727 - INFO - 172 produced a child
+2024-07-20 00:45:36,729 - INFO - 173 produced a child
+2024-07-20 00:45:36,730 - INFO - 189 produced a child
+2024-07-20 00:45:36,731 - INFO - 197 produced a child
+2024-07-20 00:45:36,732 - INFO - 201 produced a child
+2024-07-20 00:45:36,734 - INFO - 215 produced a child
+2024-07-20 00:45:36,734 - INFO - 222 produced a child
+2024-07-20 00:45:36,735 - INFO - 254 produced a child
+2024-07-20 00:45:36,735 - INFO - 273 produced a child
+2024-07-20 00:45:36,735 - INFO - 276 produced a child
+2024-07-20 00:45:36,735 - INFO - 288 produced a child
+2024-07-20 00:45:36,736 - INFO - 297 produced a child
+2024-07-20 00:45:36,736 - INFO - 0 mutated mutation_rate to 0.5261522275836015
+2024-07-20 00:45:36,736 - INFO - 300 produced a child
+2024-07-20 00:45:36,736 - INFO - 304 produced a child
+2024-07-20 00:45:36,737 - INFO - 305 produced a child
+2024-07-20 00:45:36,737 - INFO - 310 produced a child
+2024-07-20 00:45:36,737 - INFO - 314 produced a child
+2024-07-20 00:45:36,737 - INFO - 334 produced a child
+2024-07-20 00:45:36,737 - INFO - 337 produced a child
+2024-07-20 00:45:36,738 - INFO - 342 produced a child
+2024-07-20 00:45:36,738 - INFO - 343 produced a child
+2024-07-20 00:45:36,821 - INFO - 154 produced a child
+2024-07-20 00:45:36,821 - INFO - 0 mutated reproduction_rate to 0.08237049351255732
+2024-07-20 00:45:36,822 - INFO - 197 produced a child
+2024-07-20 00:45:36,822 - INFO - 227 produced a child
+2024-07-20 00:45:36,822 - INFO - 241 produced a child
+2024-07-20 00:45:36,822 - INFO - 253 produced a child
+2024-07-20 00:45:36,822 - INFO - 260 produced a child
+2024-07-20 00:45:36,822 - INFO - 263 produced a child
+2024-07-20 00:45:36,823 - INFO - 306 produced a child
+2024-07-20 00:45:36,823 - INFO - 312 produced a child
+2024-07-20 00:45:36,823 - INFO - 326 produced a child
+2024-07-20 00:45:36,823 - INFO - 330 produced a child
+2024-07-20 00:45:36,823 - INFO - 347 produced a child
+2024-07-20 00:45:36,823 - INFO - 348 produced a child
+2024-07-20 00:45:36,823 - INFO - 351 produced a child
+2024-07-20 00:45:36,824 - INFO - 354 produced a child
+2024-07-20 00:45:36,824 - INFO - 355 produced a child
+2024-07-20 00:45:36,824 - INFO - 359 produced a child
+2024-07-20 00:45:36,824 - INFO - 360 produced a child
+2024-07-20 00:45:36,824 - INFO - 362 produced a child
+2024-07-20 00:45:36,824 - INFO - 364 produced a child
+2024-07-20 00:45:36,824 - INFO - 365 produced a child
+2024-07-20 00:45:36,921 - INFO - 149 produced a child
+2024-07-20 00:45:36,922 - INFO - 154 produced a child
+2024-07-20 00:45:36,922 - INFO - 197 produced a child
+2024-07-20 00:45:36,922 - INFO - 231 produced a child
+2024-07-20 00:45:36,922 - INFO - 265 produced a child
+2024-07-20 00:45:36,922 - INFO - 288 produced a child
+2024-07-20 00:45:36,922 - INFO - 0 mutated speed to 4
+2024-07-20 00:45:36,924 - INFO - 292 produced a child
+2024-07-20 00:45:36,924 - INFO - 297 produced a child
+2024-07-20 00:45:36,924 - INFO - 0 mutated speed to 5
+2024-07-20 00:45:36,924 - INFO - 300 produced a child
+2024-07-20 00:45:36,924 - INFO - 318 produced a child
+2024-07-20 00:45:36,925 - INFO - 321 produced a child
+2024-07-20 00:45:36,925 - INFO - 347 produced a child
+2024-07-20 00:45:36,925 - INFO - 354 produced a child
+2024-07-20 00:45:36,925 - INFO - 358 produced a child
+2024-07-20 00:45:36,925 - INFO - 360 produced a child
+2024-07-20 00:45:36,925 - INFO - 361 produced a child
+2024-07-20 00:45:36,925 - INFO - 362 produced a child
+2024-07-20 00:45:36,926 - INFO - 0 mutated mutation_rate to 0.9372615910264184
+2024-07-20 00:45:36,926 - INFO - 369 produced a child
+2024-07-20 00:45:36,926 - INFO - 371 produced a child
+2024-07-20 00:45:36,926 - INFO - 372 produced a child
+2024-07-20 00:45:36,926 - INFO - 375 produced a child
+2024-07-20 00:45:36,926 - INFO - 382 produced a child
+2024-07-20 00:45:36,926 - INFO - 389 produced a child
+2024-07-20 00:45:37,024 - INFO - 143 produced a child
+2024-07-20 00:45:37,026 - INFO - 149 produced a child
+2024-07-20 00:45:37,027 - INFO - 150 produced a child
+2024-07-20 00:45:37,028 - INFO - 154 produced a child
+2024-07-20 00:45:37,029 - INFO - 172 produced a child
+2024-07-20 00:45:37,030 - INFO - 222 produced a child
+2024-07-20 00:45:37,031 - INFO - 288 produced a child
+2024-07-20 00:45:37,031 - INFO - 0 mutated heal_limit to 112
+2024-07-20 00:45:37,031 - INFO - 300 produced a child
+2024-07-20 00:45:37,031 - INFO - 311 produced a child
+2024-07-20 00:45:37,032 - INFO - 345 produced a child
+2024-07-20 00:45:37,032 - INFO - 347 produced a child
+2024-07-20 00:45:37,032 - INFO - 359 produced a child
+2024-07-20 00:45:37,033 - INFO - 368 produced a child
+2024-07-20 00:45:37,033 - INFO - 369 produced a child
+2024-07-20 00:45:37,033 - INFO - 375 produced a child
+2024-07-20 00:45:37,033 - INFO - 378 produced a child
+2024-07-20 00:45:37,033 - INFO - 391 produced a child
+2024-07-20 00:45:37,033 - INFO - 396 produced a child
+2024-07-20 00:45:37,033 - INFO - 411 produced a child
+2024-07-20 00:45:37,033 - INFO - 412 produced a child
+2024-07-20 00:45:37,125 - INFO - 149 produced a child
+2024-07-20 00:45:37,126 - INFO - 150 produced a child
+2024-07-20 00:45:37,127 - INFO - 154 produced a child
+2024-07-20 00:45:37,128 - INFO - 172 produced a child
+2024-07-20 00:45:37,129 - INFO - 173 produced a child
+2024-07-20 00:45:37,130 - INFO - 197 produced a child
+2024-07-20 00:45:37,132 - INFO - 326 produced a child
+2024-07-20 00:45:37,134 - INFO - 335 produced a child
+2024-07-20 00:45:37,134 - INFO - 338 produced a child
+2024-07-20 00:45:37,135 - INFO - 341 produced a child
+2024-07-20 00:45:37,135 - INFO - 345 produced a child
+2024-07-20 00:45:37,135 - INFO - 347 produced a child
+2024-07-20 00:45:37,136 - INFO - 361 produced a child
+2024-07-20 00:45:37,136 - INFO - 368 produced a child
+2024-07-20 00:45:37,136 - INFO - 371 produced a child
+2024-07-20 00:45:37,137 - INFO - 380 produced a child
+2024-07-20 00:45:37,137 - INFO - 385 produced a child
+2024-07-20 00:45:37,137 - INFO - 394 produced a child
+2024-07-20 00:45:37,137 - INFO - 397 produced a child
+2024-07-20 00:45:37,137 - INFO - 413 produced a child
+2024-07-20 00:45:37,138 - INFO - 415 produced a child
+2024-07-20 00:45:37,138 - INFO - 422 produced a child
+2024-07-20 00:45:37,138 - INFO - 0 mutated heal_limit to 220
+2024-07-20 00:45:37,138 - INFO - 425 produced a child
+2024-07-20 00:45:37,138 - INFO - 426 produced a child
+2024-07-20 00:45:37,138 - INFO - 431 produced a child
+2024-07-20 00:45:37,223 - INFO - 149 produced a child
+2024-07-20 00:45:37,223 - INFO - 150 produced a child
+2024-07-20 00:45:37,223 - INFO - 154 produced a child
+2024-07-20 00:45:37,224 - INFO - 172 produced a child
+2024-07-20 00:45:37,224 - INFO - 197 produced a child
+2024-07-20 00:45:37,224 - INFO - 215 produced a child
+2024-07-20 00:45:37,225 - INFO - 231 produced a child
+2024-07-20 00:45:37,225 - INFO - 260 produced a child
+2024-07-20 00:45:37,225 - INFO - 263 produced a child
+2024-07-20 00:45:37,225 - INFO - 264 produced a child
+2024-07-20 00:45:37,225 - INFO - 288 produced a child
+2024-07-20 00:45:37,226 - INFO - 306 produced a child
+2024-07-20 00:45:37,226 - INFO - 309 produced a child
+2024-07-20 00:45:37,226 - INFO - 312 produced a child
+2024-07-20 00:45:37,226 - INFO - 330 produced a child
+2024-07-20 00:45:37,226 - INFO - 347 produced a child
+2024-07-20 00:45:37,226 - INFO - 357 produced a child
+2024-07-20 00:45:37,226 - INFO - 361 produced a child
+2024-07-20 00:45:37,227 - INFO - 362 produced a child
+2024-07-20 00:45:37,227 - INFO - 370 produced a child
+2024-07-20 00:45:37,227 - INFO - 371 produced a child
+2024-07-20 00:45:37,227 - INFO - 382 produced a child
+2024-07-20 00:45:37,227 - INFO - 384 produced a child
+2024-07-20 00:45:37,227 - INFO - 389 produced a child
+2024-07-20 00:45:37,227 - INFO - 400 produced a child
+2024-07-20 00:45:37,228 - INFO - 410 produced a child
+2024-07-20 00:45:37,228 - INFO - 412 produced a child
+2024-07-20 00:45:37,228 - INFO - 415 produced a child
+2024-07-20 00:45:37,228 - INFO - 417 produced a child
+2024-07-20 00:45:37,228 - INFO - 418 produced a child
+2024-07-20 00:45:37,228 - INFO - 0 mutated turn_ratio to 0.09142278191658615
+2024-07-20 00:45:37,228 - INFO - 425 produced a child
+2024-07-20 00:45:37,228 - INFO - 427 produced a child
+2024-07-20 00:45:37,229 - INFO - 428 produced a child
+2024-07-20 00:45:37,229 - INFO - 433 produced a child
+2024-07-20 00:45:37,229 - INFO - 434 produced a child
+2024-07-20 00:45:37,229 - INFO - 0 mutated reproduction to Reproduction.OVIPARITY
+2024-07-20 00:45:37,229 - INFO - 435 produced a child
+2024-07-20 00:45:37,229 - INFO - 436 produced a child
+2024-07-20 00:45:37,230 - INFO - 438 produced a child
+2024-07-20 00:45:37,230 - INFO - 440 produced a child
+2024-07-20 00:45:37,230 - INFO - 444 produced a child
+2024-07-20 00:45:37,230 - INFO - 445 produced a child
+2024-07-20 00:45:37,230 - INFO - 446 produced a child
+2024-07-20 00:45:37,230 - INFO - 447 produced a child
+2024-07-20 00:45:37,230 - INFO - 450 produced a child
+2024-07-20 00:45:37,231 - INFO - 0 mutated max_hunger to 260
+2024-07-20 00:45:37,231 - INFO - 452 produced a child
+2024-07-20 00:45:37,231 - INFO - 453 produced a child
+2024-07-20 00:45:37,231 - INFO - 455 produced a child
+2024-07-20 00:45:37,324 - INFO - 0 mutated reproduction to Reproduction.ASEXUAL
+2024-07-20 00:45:37,324 - INFO - 149 produced a child
+2024-07-20 00:45:37,325 - INFO - 154 produced a child
+2024-07-20 00:45:37,325 - INFO - 172 produced a child
+2024-07-20 00:45:37,325 - INFO - 0 mutated speed to 1
+2024-07-20 00:45:37,326 - INFO - 197 produced a child
+2024-07-20 00:45:37,326 - INFO - 222 produced a child
+2024-07-20 00:45:37,326 - INFO - 288 produced a child
+2024-07-20 00:45:37,326 - INFO - 335 produced a child
+2024-07-20 00:45:37,327 - INFO - 0 mutated nourishment to 3
+2024-07-20 00:45:37,327 - INFO - 344 produced a child
+2024-07-20 00:45:37,327 - INFO - 361 produced a child
+2024-07-20 00:45:37,327 - INFO - 397 produced a child
+2024-07-20 00:45:37,327 - INFO - 401 produced a child
+2024-07-20 00:45:37,327 - INFO - 412 produced a child
+2024-07-20 00:45:37,328 - INFO - 0 mutated nourishment to 9
+2024-07-20 00:45:37,328 - INFO - 415 produced a child
+2024-07-20 00:45:37,328 - INFO - 417 produced a child
+2024-07-20 00:45:37,328 - INFO - 423 produced a child
+2024-07-20 00:45:37,328 - INFO - 437 produced a child
+2024-07-20 00:45:37,328 - INFO - 440 produced a child
+2024-07-20 00:45:37,328 - INFO - 447 produced a child
+2024-07-20 00:45:37,329 - INFO - 452 produced a child
+2024-07-20 00:45:37,329 - INFO - 453 produced a child
+2024-07-20 00:45:37,329 - INFO - 454 produced a child
+2024-07-20 00:45:37,329 - INFO - 460 produced a child
+2024-07-20 00:45:37,329 - INFO - 468 produced a child
+2024-07-20 00:45:37,329 - INFO - 473 produced a child
+2024-07-20 00:45:37,329 - INFO - 0 mutated max_health to 137
+2024-07-20 00:45:37,330 - INFO - 474 produced a child
+2024-07-20 00:45:37,330 - INFO - 475 produced a child
+2024-07-20 00:45:37,330 - INFO - 476 produced a child
+2024-07-20 00:45:37,330 - INFO - 477 produced a child
+2024-07-20 00:45:37,330 - INFO - 482 produced a child
+2024-07-20 00:45:37,330 - INFO - 0 mutated speed to 4
+2024-07-20 00:45:37,331 - INFO - 483 produced a child
+2024-07-20 00:45:37,331 - INFO - 486 produced a child
+2024-07-20 00:45:37,331 - INFO - 487 produced a child
+2024-07-20 00:45:37,331 - INFO - 489 produced a child
+2024-07-20 00:45:37,331 - INFO - 493 produced a child
+2024-07-20 00:45:37,331 - INFO - 500 produced a child
+2024-07-20 00:45:37,331 - INFO - 503 produced a child
+2024-07-20 00:45:37,332 - INFO - 504 produced a child
+2024-07-20 00:45:37,425 - INFO - 149 produced a child
+2024-07-20 00:45:37,426 - INFO - 172 produced a child
+2024-07-20 00:45:37,426 - INFO - 197 produced a child
+2024-07-20 00:45:37,426 - INFO - 222 produced a child
+2024-07-20 00:45:37,427 - INFO - 252 produced a child
+2024-07-20 00:45:37,427 - INFO - 264 produced a child
+2024-07-20 00:45:37,427 - INFO - 288 produced a child
+2024-07-20 00:45:37,427 - INFO - 289 produced a child
+2024-07-20 00:45:37,428 - INFO - 347 produced a child
+2024-07-20 00:45:37,428 - INFO - 354 produced a child
+2024-07-20 00:45:37,428 - INFO - 361 produced a child
+2024-07-20 00:45:37,428 - INFO - 0 mutated max_health to 126
+2024-07-20 00:45:37,429 - INFO - 371 produced a child
+2024-07-20 00:45:37,429 - INFO - 390 produced a child
+2024-07-20 00:45:37,429 - INFO - 400 produced a child
+2024-07-20 00:45:37,429 - INFO - 417 produced a child
+2024-07-20 00:45:37,429 - INFO - 436 produced a child
+2024-07-20 00:45:37,429 - INFO - 0 mutated mutation_rate to 0.7007788418348254
+2024-07-20 00:45:37,430 - INFO - 440 produced a child
+2024-07-20 00:45:37,430 - INFO - 452 produced a child
+2024-07-20 00:45:37,430 - INFO - 455 produced a child
+2024-07-20 00:45:37,430 - INFO - 463 produced a child
+2024-07-20 00:45:37,430 - INFO - 0 mutated max_hunger to 113
+2024-07-20 00:45:37,430 - INFO - 468 produced a child
+2024-07-20 00:45:37,431 - INFO - 477 produced a child
+2024-07-20 00:45:37,431 - INFO - 487 produced a child
+2024-07-20 00:45:37,431 - INFO - 506 produced a child
+2024-07-20 00:45:37,431 - INFO - 510 produced a child
+2024-07-20 00:45:37,431 - INFO - 511 produced a child
+2024-07-20 00:45:37,431 - INFO - 0 mutated speed to 1
+2024-07-20 00:45:37,432 - INFO - 517 produced a child
+2024-07-20 00:45:37,432 - INFO - 521 produced a child
+2024-07-20 00:45:37,432 - INFO - 526 produced a child
+2024-07-20 00:45:37,432 - INFO - 528 produced a child
+2024-07-20 00:45:37,432 - INFO - 530 produced a child
+2024-07-20 00:45:37,432 - INFO - 533 produced a child
+2024-07-20 00:45:37,432 - INFO - 535 produced a child
+2024-07-20 00:45:37,432 - INFO - 537 produced a child
+2024-07-20 00:45:37,433 - INFO - 540 produced a child
+2024-07-20 00:45:37,526 - INFO - 154 produced a child
+2024-07-20 00:45:37,526 - INFO - 172 produced a child
+2024-07-20 00:45:37,527 - INFO - 197 produced a child
+2024-07-20 00:45:37,527 - INFO - 222 produced a child
+2024-07-20 00:45:37,527 - INFO - 234 produced a child
+2024-07-20 00:45:37,527 - INFO - 257 produced a child
+2024-07-20 00:45:37,527 - INFO - 259 produced a child
+2024-07-20 00:45:37,527 - INFO - 261 produced a child
+2024-07-20 00:45:37,528 - INFO - 288 produced a child
+2024-07-20 00:45:37,528 - INFO - 342 produced a child
+2024-07-20 00:45:37,528 - INFO - 371 produced a child
+2024-07-20 00:45:37,528 - INFO - 434 produced a child
+2024-07-20 00:45:37,528 - INFO - 438 produced a child
+2024-07-20 00:45:37,529 - INFO - 439 produced a child
+2024-07-20 00:45:37,529 - INFO - 446 produced a child
+2024-07-20 00:45:37,529 - INFO - 0 mutated heal_limit to 156
+2024-07-20 00:45:37,529 - INFO - 458 produced a child
+2024-07-20 00:45:37,529 - INFO - 463 produced a child
+2024-07-20 00:45:37,529 - INFO - 464 produced a child
+2024-07-20 00:45:37,530 - INFO - 470 produced a child
+2024-07-20 00:45:37,530 - INFO - 0 mutated turn_ratio to 0.9189840087430028
+2024-07-20 00:45:37,530 - INFO - 474 produced a child
+2024-07-20 00:45:37,530 - INFO - 492 produced a child
+2024-07-20 00:45:37,530 - INFO - 501 produced a child
+2024-07-20 00:45:37,530 - INFO - 505 produced a child
+2024-07-20 00:45:37,530 - INFO - 509 produced a child
+2024-07-20 00:45:37,531 - INFO - 0 mutated mutation_rate to 0.3395087962360446
+2024-07-20 00:45:37,531 - INFO - 510 produced a child
+2024-07-20 00:45:37,531 - INFO - 521 produced a child
+2024-07-20 00:45:37,531 - INFO - 532 produced a child
+2024-07-20 00:45:37,531 - INFO - 536 produced a child
+2024-07-20 00:45:37,531 - INFO - 539 produced a child
+2024-07-20 00:45:37,532 - INFO - 541 produced a child
+2024-07-20 00:45:37,532 - INFO - 0 mutated turn_ratio to 0.7668398359543446
+2024-07-20 00:45:37,532 - INFO - 550 produced a child
+2024-07-20 00:45:37,532 - INFO - 552 produced a child
+2024-07-20 00:45:37,532 - INFO - 557 produced a child
+2024-07-20 00:45:37,532 - INFO - 0 mutated speed to 3
+2024-07-20 00:45:37,533 - INFO - 565 produced a child
+2024-07-20 00:45:37,533 - INFO - 568 produced a child
+2024-07-20 00:45:37,533 - INFO - 573 produced a child
+2024-07-20 00:45:37,533 - INFO - 574 produced a child
+2024-07-20 00:45:37,627 - INFO - 150 produced a child
+2024-07-20 00:45:37,628 - INFO - 172 produced a child
+2024-07-20 00:45:37,628 - INFO - 197 produced a child
+2024-07-20 00:45:37,628 - INFO - 252 produced a child
+2024-07-20 00:45:37,629 - INFO - 288 produced a child
+2024-07-20 00:45:37,629 - INFO - 407 produced a child
+2024-07-20 00:45:37,629 - INFO - 412 produced a child
+2024-07-20 00:45:37,630 - INFO - 417 produced a child
+2024-07-20 00:45:37,630 - INFO - 434 produced a child
+2024-07-20 00:45:37,630 - INFO - 436 produced a child
+2024-07-20 00:45:37,630 - INFO - 438 produced a child
+2024-07-20 00:45:37,631 - INFO - 0 mutated reproduction to Reproduction.VIVIPARITY
+2024-07-20 00:45:37,631 - INFO - 452 produced a child
+2024-07-20 00:45:37,631 - INFO - 455 produced a child
+2024-07-20 00:45:37,631 - INFO - 458 produced a child
+2024-07-20 00:45:37,631 - INFO - 459 produced a child
+2024-07-20 00:45:37,631 - INFO - 0 mutated diet to Diet.CARNIVORE
+2024-07-20 00:45:37,632 - INFO - 463 produced a child
+2024-07-20 00:45:37,632 - INFO - 467 produced a child
+2024-07-20 00:45:37,632 - INFO - 483 produced a child
+2024-07-20 00:45:37,632 - INFO - 486 produced a child
+2024-07-20 00:45:37,632 - INFO - 495 produced a child
+2024-07-20 00:45:37,633 - INFO - 0 mutated color to (122, 165, 112)
+2024-07-20 00:45:37,633 - INFO - 501 produced a child
+2024-07-20 00:45:37,633 - INFO - 503 produced a child
+2024-07-20 00:45:37,633 - INFO - 0 mutated heal_limit to 162
+2024-07-20 00:45:37,633 - INFO - 504 produced a child
+2024-07-20 00:45:37,633 - INFO - 506 produced a child
+2024-07-20 00:45:37,633 - INFO - 509 produced a child
+2024-07-20 00:45:37,633 - INFO - 512 produced a child
+2024-07-20 00:45:37,633 - INFO - 514 produced a child
+2024-07-20 00:45:37,634 - INFO - 0 mutated color to (239, 22, 190)
+2024-07-20 00:45:37,634 - INFO - 517 produced a child
+2024-07-20 00:45:37,634 - INFO - 521 produced a child
+2024-07-20 00:45:37,634 - INFO - 524 produced a child
+2024-07-20 00:45:37,634 - INFO - 528 produced a child
+2024-07-20 00:45:37,635 - INFO - 538 produced a child
+2024-07-20 00:45:37,635 - INFO - 0 mutated nourishment to 5
+2024-07-20 00:45:37,635 - INFO - 539 produced a child
+2024-07-20 00:45:37,635 - INFO - 540 produced a child
+2024-07-20 00:45:37,635 - INFO - 548 produced a child
+2024-07-20 00:45:37,635 - INFO - 0 mutated reproduction to Reproduction.VIVIPARITY
+2024-07-20 00:45:37,636 - INFO - 550 produced a child
+2024-07-20 00:45:37,636 - INFO - 553 produced a child
+2024-07-20 00:45:37,636 - INFO - 558 produced a child
+2024-07-20 00:45:37,636 - INFO - 559 produced a child
+2024-07-20 00:45:37,636 - INFO - 577 produced a child
+2024-07-20 00:45:37,636 - INFO - 578 produced a child
+2024-07-20 00:45:37,636 - INFO - 581 produced a child
+2024-07-20 00:45:37,637 - INFO - 0 mutated reproduction to Reproduction.VIVIPARITY
+2024-07-20 00:45:37,637 - INFO - 583 produced a child
+2024-07-20 00:45:37,637 - INFO - 586 produced a child
+2024-07-20 00:45:37,637 - INFO - 587 produced a child
+2024-07-20 00:45:37,637 - INFO - 592 produced a child
+2024-07-20 00:45:37,637 - INFO - 597 produced a child
+2024-07-20 00:45:37,637 - INFO - 598 produced a child
+2024-07-20 00:45:37,638 - INFO - 599 produced a child
+2024-07-20 00:45:37,638 - INFO - 601 produced a child
+2024-07-20 00:45:37,638 - INFO - 606 produced a child
+2024-07-20 00:45:37,638 - INFO - 610 produced a child
+2024-07-20 00:45:37,638 - INFO - 611 produced a child
+2024-07-20 00:45:37,638 - INFO - 612 produced a child
+2024-07-20 00:45:37,728 - INFO - 149 produced a child
+2024-07-20 00:45:37,729 - INFO - 222 produced a child
+2024-07-20 00:45:37,729 - INFO - 257 produced a child
+2024-07-20 00:45:37,729 - INFO - 288 produced a child
+2024-07-20 00:45:37,730 - INFO - 361 produced a child
+2024-07-20 00:45:37,730 - INFO - 0 mutated offspring_term_limit to 49
+2024-07-20 00:45:37,730 - INFO - 407 produced a child
+2024-07-20 00:45:37,731 - INFO - 0 mutated turn_ratio to 0.35937821000772885
+2024-07-20 00:45:37,731 - INFO - 434 produced a child
+2024-07-20 00:45:37,731 - INFO - 438 produced a child
+2024-07-20 00:45:37,731 - INFO - 463 produced a child
+2024-07-20 00:45:37,732 - INFO - 464 produced a child
+2024-07-20 00:45:37,732 - INFO - 489 produced a child
+2024-07-20 00:45:37,732 - INFO - 503 produced a child
+2024-07-20 00:45:37,732 - INFO - 509 produced a child
+2024-07-20 00:45:37,732 - INFO - 515 produced a child
+2024-07-20 00:45:37,733 - INFO - 528 produced a child
+2024-07-20 00:45:37,733 - INFO - 540 produced a child
+2024-07-20 00:45:37,733 - INFO - 546 produced a child
+2024-07-20 00:45:37,733 - INFO - 548 produced a child
+2024-07-20 00:45:37,733 - INFO - 574 produced a child
+2024-07-20 00:45:37,733 - INFO - 582 produced a child
+2024-07-20 00:45:37,733 - INFO - 0 mutated color to (247, 98, 245)
+2024-07-20 00:45:37,733 - INFO - 583 produced a child
+2024-07-20 00:45:37,733 - INFO - 590 produced a child
+2024-07-20 00:45:37,734 - INFO - 595 produced a child
+2024-07-20 00:45:37,734 - INFO - 596 produced a child
+2024-07-20 00:45:37,734 - INFO - 597 produced a child
+2024-07-20 00:45:37,734 - INFO - 601 produced a child
+2024-07-20 00:45:37,734 - INFO - 615 produced a child
+2024-07-20 00:45:37,735 - INFO - 0 mutated turn_ratio to 0.9609951306670907
+2024-07-20 00:45:37,735 - INFO - 616 produced a child
+2024-07-20 00:45:37,735 - INFO - 618 produced a child
+2024-07-20 00:45:37,735 - INFO - 626 produced a child
+2024-07-20 00:45:37,735 - INFO - 628 produced a child
+2024-07-20 00:45:37,735 - INFO - 634 produced a child
+2024-07-20 00:45:37,736 - INFO - 635 produced a child
+2024-07-20 00:45:37,736 - INFO - 644 produced a child
+2024-07-20 00:45:37,736 - INFO - 645 produced a child
