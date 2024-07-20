@@ -7,6 +7,8 @@ GRID_SIZE = 25
 CELL_SIZE = 10
 MUTATION_RATE = 0.1
 NUM_ORGANISMS = 10
+
+# colors
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 RED = (255, 0, 0)
@@ -41,7 +43,7 @@ def main():
 
         # Draw organisms
         for organism in env.organisms.values():
-            pygame.draw.rect(screen, RED, (organism.x * CELL_SIZE, organism.y * CELL_SIZE, CELL_SIZE, CELL_SIZE))
+            pygame.draw.rect(screen, organism.color, (organism.x * CELL_SIZE, organism.y * CELL_SIZE, CELL_SIZE, CELL_SIZE))
 
         for i in range(len(env.grid)):
             for j in range(len(env.grid[i])):
