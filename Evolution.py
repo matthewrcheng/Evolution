@@ -120,14 +120,15 @@ class Organism:
                 self.hunger = min(self.hunger, self.max_hunger)
                 # print(f"{self.id} ate. New hunger: {self.hunger}")
         if self.diet == Diet.CARNIVORE or self.diet == Diet.OMNIVORE: 
-            if self.check_dims(x, y) and type(target) == Organism:
-                target = self.env.grid[x][y]
-                success = self.attack(target)
-                if success:
-                    self.env.grid[x][y] = None
-                    self.hunger += self.nourishment
-                    self.hunger = min(self.hunger, self.max_hunger)
-                    self.env.logger.info(f"{self.id} ate target {target.id}")
+            if self.check_dims(x, y):
+                target = self.env.grid[x][y] 
+                if type(target) == Organism:
+                    success = self.attack(target)
+                    if success:
+                        self.env.grid[x][y] = None
+                        self.hunger += self.nourishment
+                        self.hunger = min(self.hunger, self.max_hunger)
+                        self.env.logger.info(f"{self.id} ate target {target.id}")
 
     def attack(self, other):
         self.env.logger.info(f"{self.id} is attacking {other.id}")
